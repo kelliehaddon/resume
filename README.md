@@ -1,5 +1,5 @@
 # Resume
-This repository contains my [resume](resume.pdf) detailing my experience in data analysis and international development.
+This repository contains my [resume](kellie-haddon-resume.pdf) detailing my experience in data analysis and international development.
 
 I first learned to use R in a graduate-level international affairs statistics and methods course and have improved my data analysis and coding skills through an additional graduate-level course on data analysis, both at the School of International Service at American University. Not only have I excelled in both of these classes, but I have had the opportunity to directly apply the skills I have learned in my professional work experience as an intern in the Latin America and Carribean Bureau at USAID and as a junior research analyst in the Global Development practice area at the Cloudburst Group. In these positions I have used R to monitor data collection quality by running high frequency checks, preparing data for analysis and publication to the Data Development Library, and producing descriptive statistics and visualizations of quantitative data for dissemination to clients. 
 
